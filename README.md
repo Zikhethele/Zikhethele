@@ -1,8 +1,8 @@
-# Hi, I'm Zikhethele 👋
+# Hi, I'm Zikhethele 
 
 DevOps Engineer focused on automation, data workflows, and building real-world tools.
 
-## 🚀 What I Do
+##  What I Do
 - Build automation systems (n8n, scripting)
 - Develop backend tools (FastAPI, Python)
 - Work with containers (Docker)
@@ -15,7 +15,7 @@ DevOps Engineer focused on automation, data workflows, and building real-world t
 - FastAPI
 - GitHub Actions (learning / building)
 
-## 📌 Featured Project
+##  Featured Project
 
 ### TubeAnalyzer
 A YouTube analytics and reporting tool that extracts insights and generates reports.
@@ -23,7 +23,7 @@ A YouTube analytics and reporting tool that extracts insights and generates repo
 🔗 Live: https://zikhethele.github.io/tubeanalyzer/  
 🔗 Code: https://github.com/Zikhethele
 
-## 📫 Connect With Me
+##  Connect With Me
 - LinkedIn: https://www.linkedin.com/in/zikhethele-gumede-3921a068
 - 
 -  curl -X GET "https://tube-analyzer.onrender.com/channel-info?channel_name=censored-ish&emails=analyzer@gmail.com" -H "accept: application/json"
