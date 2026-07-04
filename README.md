@@ -13,7 +13,7 @@ DevOps Engineer focused on automation, data workflows, and building real-world t
 - Docker, Linux
 - MySQL
 - FastAPI
-- GitHub Actions (learning / building)
+- GitHub Actions 
 
 ##  Featured Project
 
